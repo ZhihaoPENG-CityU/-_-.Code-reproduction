@@ -1,5 +1,5 @@
 # 2023-Code-reproduction 
-## "Thank reearchers for your excellent work and for generously sharing your source code with the public, where your contribution to the scientific community is greatly appreciated." (Frank PENG, 2023)
+## "Thank researchers for your excellent work and for generously sharing your source code with the public, where your contribution to the scientific community is greatly appreciated." (Frank PENG, 2023)
 
 1. Modularity-Aware GAE [R1]. 
 * Previous version [R2] was built in a [Tensorflow1.x] framework, where we utilize the `tensorflow.compat.v1' interface to conduct the TensorFlow compatible processing. 
