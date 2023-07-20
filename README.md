@@ -5,7 +5,7 @@
 
 ***
 
-\\
+\
 [References]
 -  [R1] G. Salha-Galvan, J. F. Lutzeyer, G. Dasoulas, R. Hennequin, & M. Vazirgiannis, ”Modularity-aware graph autoencoders for joint community detection and link prediction”. Neural Networks, 153, 474-495. (2022).
 -  [R2] Guillaume Salha-Galvan’s GitHub. https://github.com/GuillaumeSalhaGalvan/modularity_aware_gae.
